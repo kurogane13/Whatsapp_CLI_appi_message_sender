@@ -1,4 +1,4 @@
-# Whatsapp_CLI_appi_message_sender
+# Whatsapp_CLI_api_message_sender
 CLI version of the whatsapp api message client
 
 This is is a python cli to send messages to a user without the need to have them in your contacts list
